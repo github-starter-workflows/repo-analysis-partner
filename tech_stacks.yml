@@ -1,0 +1,20 @@
+# This file defines the tech stacks supported by repo analysis.
+# To request support for any new tech stack, please raise an issue on this repo.
+---
+supported_tech_stacks:
+- AspNetCore
+- Maven
+- npm
+- React
+- Yarn
+- Angular
+- Gulp
+- Grunt
+- Webpack
+- Django
+- Bottle
+- Flask
+- DotNetCoreWorker
+- DotNetConsole
+- Azure Functions
+- Rails
