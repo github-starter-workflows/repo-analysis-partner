@@ -21,3 +21,6 @@ supported_tech_stacks:
 - Gradle
 - Spring
 - JSF
+- Pip
+- Ant
+- Xcode
