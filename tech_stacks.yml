@@ -26,3 +26,6 @@ supported_tech_stacks:
 - Xcode
 - Express
 - Sails
+- Kubernetes
+- Kustomize
+- Helm
