@@ -5,6 +5,7 @@ supported_tech_stacks:
 - AspNetCore
 - Maven
 - npm
+- Composer
 - React
 - Yarn
 - Angular
@@ -26,6 +27,15 @@ supported_tech_stacks:
 - Xcode
 - Express
 - Sails
+- Next
+- Gatsby
+- Nuxt
+- Laravel
+- Symfony
+- Jekyll
+- Astro
+- Svelte
+- Vue
 - Kubernetes
 - Kustomize
 - Helm
