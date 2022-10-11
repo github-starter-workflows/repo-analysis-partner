@@ -19,5 +19,8 @@ This defines the extensions of files used as the criteria of detection. For eg, 
 **Content/Regex to look for in the above-mentioned filename/extensions**
 This defines the content to look for in the file with the name/extensions defined above. For eg, the presence of `<Project Sdk="Microsoft.NET.Sdk.Web">` in a file with extension `.csproj` is the detection criteria for `AspNetCore`
 
+**Sample public repository which we can add to our test suite**
+Provide a public repo which contains relevant files and is expected to have the above mentioned tech_stack. This repo will be added to our regression test suite. 
+
 **Additional context**
 Add any other context or screenshots about the feature request here.
